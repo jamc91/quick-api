@@ -1,5 +1,5 @@
 import { Router } from 'express'
-import brandsController from '../../controllers/brandsController.js'
+import brandsController from '../../api/controllers/brandsController.js'
 import multer from 'multer'
 const upload = multer({ dest: 'uploads/' })
 

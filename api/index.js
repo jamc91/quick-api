@@ -1,6 +1,6 @@
 import app from '../app.js'
 import mongoClient from '../db/mongoClient.js'
-import routerApi from '../api/routes/index.js'
+import routerApi from '../routes/index.js'
 import { PORT } from '../config.js'
 import multer from 'multer'
 import { parseXlsxToJSON } from '../utils/xlsxToJson.js'

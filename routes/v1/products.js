@@ -1,6 +1,6 @@
 import { Router } from 'express'
-import productsController from '../../controllers/productsController.js'
-import productValidator from '../../middlewares/productValidator.js'
+import productsController from '../../api/controllers/productsController.js'
+import productValidator from '../../api/middlewares/productValidator.js'
 
 const router = Router()
 

@@ -1,6 +1,6 @@
 import { Router } from 'express'
-import variantsController from '../../controllers/variantsController.js'
-import variantValidator from '../../middlewares/variantValidator.js'
+import variantsController from '../../api/controllers/variantsController.js'
+import variantValidator from '../../api/middlewares/variantValidator.js'
 import multer from 'multer'
 const upload = multer({ dest: 'uploads/' })
 
