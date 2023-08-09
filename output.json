@@ -1,0 +1,1056 @@
+[
+  {
+    "key": "",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "",
+    "description": "",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "15.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "30.00%",
+        "discountAd": "60.00%"
+      }
+    ]
+  },
+  {
+    "key": "LF",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Letra",
+    "description": "Mercancía seleccionada LF",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "25.00%",
+        "discountAd": "10.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "10.00%",
+        "discountAd": "10.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "10.00%",
+        "discountAd": "10.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "10.00%",
+        "discountAd": "10.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "10.00%",
+        "discountAd": "10.00%"
+      }
+    ]
+  },
+  {
+    "key": "LG",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Letra",
+    "description": "Mercancía seleccionada LG",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "25.00%",
+        "discountAd": "15.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "15.00%",
+        "discountAd": "15.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "15.00%",
+        "discountAd": "15.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "15.00%",
+        "discountAd": "15.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "15.00%",
+        "discountAd": "15.00%"
+      }
+    ]
+  },
+  {
+    "key": "11103",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Grupo de Artículos",
+    "description": "JUEGO DE BOX Y COLCHÓN",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  },
+  {
+    "key": "LF",
+    "section": "111",
+    "participate": "No Participa",
+    "exception": "Letra",
+    "description": "Mercancía seleccionada LF",
+    "plans": []
+  },
+  {
+    "key": "LG",
+    "section": "111",
+    "participate": "No Participa",
+    "exception": "Letra",
+    "description": "Mercancía seleccionada LG",
+    "plans": []
+  },
+  {
+    "key": "LX",
+    "section": "111",
+    "participate": "No Participa",
+    "exception": "Letra",
+    "description": "Mercancía seleccionada LX",
+    "plans": []
+  },
+  {
+    "key": "G",
+    "section": "111",
+    "participate": "No Participa",
+    "exception": "Letra",
+    "description": "Promoción especial 2",
+    "plans": []
+  },
+  {
+    "key": "L",
+    "section": "111",
+    "participate": "No Participa",
+    "exception": "Letra",
+    "description": "Mercancía seleccionada L",
+    "plans": []
+  },
+  {
+    "key": "1114858613",
+    "section": "111",
+    "participate": "Excepto",
+    "exception": "SKU",
+    "description": "JGO BOX Y COLCHON SEALY COACH USA, KS S",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  },
+  {
+    "key": "1114858583",
+    "section": "111",
+    "participate": "Excepto",
+    "exception": "SKU",
+    "description": "JGO BOX Y COLCHON SEALY COACH USA, IND",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  },
+  {
+    "key": "1114858605",
+    "section": "111",
+    "participate": "Excepto",
+    "exception": "SKU",
+    "description": "JGO BOX Y COLCHON SEALY COACH USA, QS S",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  },
+  {
+    "key": "1114858591",
+    "section": "111",
+    "participate": "Excepto",
+    "exception": "SKU",
+    "description": "JGO BOX Y COLCHON SEALY COACH USA, MAT",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "25.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  },
+  {
+    "key": "A573",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Submarca",
+    "description": "LUUNA",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "45.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "43.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "43.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "43.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "43.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  },
+  {
+    "key": "E215",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Submarca",
+    "description": "SOGNARE",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "43.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "43.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "43.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "43.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "43.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  },
+  {
+    "key": "LI",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Letra",
+    "description": "Mercancía seleccionada LI",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "25.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "25.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "25.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "25.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "25.00%",
+        "discountAd": "25.00%"
+      }
+    ]
+  },
+  {
+    "key": "P",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Letra",
+    "description": "Mercancía seleccionada P",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "25.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "28.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "28.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "23.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "23.00%",
+        "discountAd": "25.00%"
+      }
+    ]
+  },
+  {
+    "key": "T",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Letra",
+    "description": "Mercancía seleccionada T",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "25.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "32.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "32.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "27.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "27.00%",
+        "discountAd": "25.00%"
+      }
+    ]
+  },
+  {
+    "key": "S",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Letra",
+    "description": "Mercancía seleccionada S",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "25.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "36.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "36.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "32.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "32.00%",
+        "discountAd": "25.00%"
+      }
+    ]
+  },
+  {
+    "key": "LD",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Letra",
+    "description": "Mercancía seleccionada LD",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "25.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "40.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "40.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "36.00%",
+        "discountAd": "25.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "36.00%",
+        "discountAd": "25.00%"
+      }
+    ]
+  },
+  {
+    "key": "8815",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Submarca",
+    "description": "STEARNS & FOSTER",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "0.00%",
+        "discountAd": "30.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "0.00%",
+        "discountAd": "30.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "0.00%",
+        "discountAd": "30.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "0.00%",
+        "discountAd": "30.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "0.00%",
+        "discountAd": "30.00%"
+      }
+    ]
+  },
+  {
+    "key": "1261",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Submarca",
+    "description": "TEMPUR",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  },
+  {
+    "key": "1122613417",
+    "section": "111",
+    "participate": "Excepto",
+    "exception": "SKU",
+    "description": "COLCHON TEMPUR PRIMA, KS TEMPUR",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  },
+  {
+    "key": "1122613409",
+    "section": "111",
+    "participate": "Excepto",
+    "exception": "SKU",
+    "description": "COLCHON TEMPUR PRIMA, QS TEMPUR",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  },
+  {
+    "key": "1122613735",
+    "section": "111",
+    "participate": "Excepto",
+    "exception": "SKU",
+    "description": "COLCHON TEMPUR PRIMA, IND TEMPUR",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  },
+  {
+    "key": "1122613727",
+    "section": "111",
+    "participate": "Excepto",
+    "exception": "SKU",
+    "description": "COLCHON TEMPUR PRIMA, MAT TEMPUR",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "20.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  },
+  {
+    "key": "LX",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Letra",
+    "description": "Mercancía seleccionada LX",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  },
+  {
+    "key": "F",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Letra",
+    "description": "Promoción especial F",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "43.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "40.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "40.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "36.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "36.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  },
+  {
+    "key": "G",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Letra",
+    "description": "Promoción especial 2",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "10.00%",
+        "discountAd": "15.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "15.00%",
+        "discountAd": "15.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "15.00%",
+        "discountAd": "15.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "15.00%",
+        "discountAd": "15.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "15.00%",
+        "discountAd": "15.00%"
+      }
+    ]
+  },
+  {
+    "key": "I",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Letra",
+    "description": "Promoción especial 4",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "40.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "36.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "36.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "32.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "32.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  },
+  {
+    "key": "L",
+    "section": "111",
+    "participate": "Sí Participa",
+    "exception": "Letra",
+    "description": "Mercancía seleccionada L",
+    "plans": [
+      {
+        "payment": "DILISA",
+        "months": "No Aplica",
+        "discount": "10.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "3, 6, 9",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "3, 6",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "DILISA",
+        "months": "15",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      },
+      {
+        "payment": "Externas",
+        "months": "13",
+        "discount": "0.00%",
+        "discountAd": "0.00%"
+      }
+    ]
+  }
+]
