@@ -201,6 +201,12 @@ function getPromotion (promotions, variant, product) {
     return promotionsByGroup
   }
 
+  const promotionsBySection = promotions.find(promotion => promotion.section === product.department)
+
+  if (promotionsBySection) {
+    return promotionsBySection
+  }
+
   return {}
 }
 
